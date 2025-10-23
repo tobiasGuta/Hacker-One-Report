@@ -10,3 +10,9 @@ A small Flask web app for writing vulnerability reports with a live Markdown edi
 - Slash-triggered floating snippet menu to quickly insert predefined Markdown snippets (headers, lists, code, tables, attachments, mentions, CVE/CWE).
 - Generate a final markdown report page with raw editable markdown, rendered preview, copy and download options.
 - Easy to extend: add or modify CSS and template markup to create additional themes or tweak existing ones.
+
+# Example: 
+
+<img width="1880" height="970" alt="image" src="https://github.com/user-attachments/assets/68a791da-0f62-4a68-8857-8b306865fe91" />
+
+<img width="1869" height="881" alt="image" src="https://github.com/user-attachments/assets/5ea26004-6110-4a24-ae58-6715fbc3b322" />
